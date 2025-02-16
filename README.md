@@ -20,3 +20,5 @@ AI方案助手是你编写技术解决方案的好帮手！只需输入一个标
 
 
 ![16bb743487537b621584786b0fd1a6b](https://github.com/user-attachments/assets/2398b2e2-0819-4424-8812-4d26393276cd)
+
+系统地址：http://www.gaolevel.com:8081/index.html
